@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo {
+    padding: 10px;
+}
+
+.flag {
+    margin: 15px;
+}
+
+.home {
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+}
+
+.home h1 {
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: 'Oswald', sans-serif;
+}
+.home h2 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Anuphan', sans-serif;
+}
+
+.home p {
+    font-family: 'Karla', sans-serif;
+}
+
+.indice {
+    width: 50%;
+    padding-left: 20px;
+}
+
+.indice1 {
+    padding-top: 50px;
+    margin: auto;
+    text-align: center;
+}
+
+#porquedevemos {
+    font-family: 'Oswald', sans-serif;
+    padding: 10px;
+}
+
+#preciso {
+    font-family: 'Oswald', sans-serif;
+    padding: 10px;
+}
+
+.indice1 p {
+    padding: 30px;
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+    font-family: 'Karla', sans-serif;
+}
+
+.estatisticas {
+    text-align: center;
+    padding: 30px;
+    align-items: center;
+}
+
+#tit-estatistica {
+    text-decoration: underline;
+    padding-bottom: 20px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.cerrado {
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    margin: 15px;
+}
+
+.cerrado h2 {
+    font-family: 'Oswald';
+    text-align: center;
+    padding: 20px;
+    text-decoration: underline;
+}
+
+.cerrado p {
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+    font-family: 'Karla', sans-serif;
+}
+
+.cerrado-content {
+    margin: auto;
+    width: 80%;
+    height: 80%;
+}
+
+.saibamais h2 {
+    font-family: 'Oswald';
+    text-align: center;
+    padding-top: 20px;
+}
+
+.saibamais p {
+    padding: 10px;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Karla', sans-serif;  
+}
+
+.saibamais-content {
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    padding: 20px;
+}
+
+.button-dw {
+    text-align: center;
+}
+
+.bibi-main {
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.bibi-main h1 {
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: 'Oswald', sans-serif; 
+}
+
+.image-icone {
+    margin: 5px;
+}
+
+.form-content {
+    margin: auto;
+    padding: 50px;
+    width: 450px;
+    height: 81vh;
+}
+
+.contato {
+    margin: 20px;
+    padding: 20px;
+}
+
+.contato h2 {
+    font-family: 'Oswald';
+    text-align: center;
+    padding: 20px;
+}
+
+.contato p {
+    padding: 10px;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Karla', sans-serif;  
+}
+
+.rodape {
+    text-align: center;
+}
+
+.ctt-footer {
+    padding: 20px;
+}
+
+.curiosidades {
+    padding: 20px;
+}
+
+.curiosidades h2 {
+    font-family: 'Oswald';
+    text-align: center;
+    padding: 30px;
+
+}
+
+.trilhas{
+    margin: auto;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    border-style: solid;
+}
+
+.trilhas h2 {
+    font-family: 'Oswald';
+    text-align: center;
+    padding: 30px;
+    text-decoration: underline;
+}
+
+#link-topo {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+#sobre-tbr {
+    padding: 10px;
+}
